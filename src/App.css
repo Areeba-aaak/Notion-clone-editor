@@ -1,0 +1,16 @@
+textarea {
+  field-sizing: content;
+}
+
+button {
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: #9ca3af;
+}
